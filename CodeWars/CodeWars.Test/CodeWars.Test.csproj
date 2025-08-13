@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CodeWars\CodeWars.csproj" />
+    </ItemGroup>
+
 </Project>

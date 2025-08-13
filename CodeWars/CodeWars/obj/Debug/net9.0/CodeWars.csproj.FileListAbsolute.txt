@@ -1,0 +1,12 @@
+C:\Repos\CodeWars\CodeWars\CodeWars\bin\Debug\net9.0\CodeWars.deps.json
+C:\Repos\CodeWars\CodeWars\CodeWars\bin\Debug\net9.0\CodeWars.dll
+C:\Repos\CodeWars\CodeWars\CodeWars\bin\Debug\net9.0\CodeWars.pdb
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.AssemblyInfoInputs.cache
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.AssemblyInfo.cs
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.sourcelink.json
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.dll
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\refint\CodeWars.dll
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\CodeWars.pdb
+C:\Repos\CodeWars\CodeWars\CodeWars\obj\Debug\net9.0\ref\CodeWars.dll
